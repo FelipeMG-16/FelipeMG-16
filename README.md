@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">⚡Hi there, I'm FelipeMG ⚡</h1>
 
 <!--
 **FelipeMG-16/FelipeMG-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
