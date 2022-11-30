@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+import SoftwareDeveloper from 'felipemaquedag';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Felipe de Jesús Maqueda';
+  title    = 'Full Stack Developer';
+  company  = 'GenerationMX | Remote';
+  location = 'México';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JAVA', 'JavaScript'];
+  databases  = ['MySQL'];
+  frameworks = ['React', 'Spring'];
+  learning = ['Docker', 'Apache Kafka', 'AWS', 'Azure']'
+}
