@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-import SoftwareDeveloper from 'felipemaquedag';
+```js
+import SoftwareDeveloper from 'felipemg-16';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Felipe de Jesús Maqueda';
@@ -30,3 +31,10 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'Spring'];
   learning = ['Docker', 'Apache Kafka', 'AWS', 'Azure']'
 }
+```
+
+<div align="center">
+  <a href="https://github.com/FelipeMG-16">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taniagd&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniagd&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
