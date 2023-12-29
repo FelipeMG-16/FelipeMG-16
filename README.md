@@ -20,15 +20,15 @@ import SoftwareDeveloper from 'felipemg-16';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Felipe de Jesús Maqueda';
-  title    = 'Full Stack Developer';
-  company  = 'GenerationMX | Remote';
+  title    = 'Backend Developer';
+  company  = 'Variable Digital | Remote';
   location = 'México';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JAVA', 'JavaScript'];
-  databases  = ['MySQL'];
-  frameworks = ['React', 'Spring'];
+  databases  = ['MySQL', 'OracleDB', 'MongoDB', 'SQL Server'];
+  frameworks = ['React', 'Angular', 'Spring'];
   learning = ['Docker', 'Apache Kafka', 'AWS', 'Azure']'
 }
 ```
